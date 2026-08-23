@@ -7,6 +7,7 @@ Tiivistelmä podcast-jaksosta:
 - Palvelunestohyökkäykset ovat tällä hetkellä yleisin rikosmuoto verkossa.
 - Hyökkäyksen haluttuun kohteeseen voi tilata netistä kuka vain ilman tarvetta omille tietoteknisille taidoille.
 - CaaS eli Cybercrime as a Service on nykyisin tuottava liiketoimintamuoto, jolla tehdään miljardibisnestä.
+- Motiivina hyökkäyksille voivat olla mm. taloudellinen hyöty, kaupallinen haitanteko tai valtiollinen agenda.
 
 Lähde: Hyppönen & Tuominen 27.3.2024.
 
